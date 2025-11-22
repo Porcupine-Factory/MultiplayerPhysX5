@@ -1,0 +1,11 @@
+{
+    "repo_name":"MultiplayerPhysX5",
+    "origin":"Porcupine Factory",
+    "repo_uri": "https://github.com/Porcupine-Factory/MultiplayerPhysX5.git",
+    "summary": "The MultiplayerPhysX5 Gem provides a public API for multiplayer functionality such as connecting and hosting (using PhysX5).",
+    "additional_info": "The same as O3DE's Multiplayer gem only that it uses PhysX5 intead of PhysX4.",
+    "last_updated": "11/22/2025 04:00pm",
+    "gems": [
+        "https://raw.githubusercontent.com/Porcupine-Factory/MultiplayerPhysX5/main"
+    ]
+}

@@ -1,11 +1,11 @@
 {
     "gem_name": "MultiplayerPhysX5",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "display_name": "MultiplayerPhysX5",
     "license": "Apache-2.0 Or MIT",
     "license_url": "https://github.com/o3de/o3de/blob/development/LICENSE.txt",
     "origin": "Open 3D Engine - o3de.org",
-    "origin_url": "https://github.com/o3de/o3de",
+    "origin_uri": "https://github.com/Porcupine-Factory/MultiplayerPhysX5.git",
     "type": "Code",
     "summary": "The Multiplayer Gem provides a public API for multiplayer functionality such as connecting and hosting.",
     "canonical_tags": [
@@ -26,5 +26,6 @@
         "CertificateManager",
         "Atom_Feature_Common",
         "ImGui"
-    ]
+    ],
+    "repo_uri": "https://github.com/Porcupine-Factory/MultiplayerPhysX5.git"
 }
